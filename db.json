@@ -1,4 +1,16 @@
 {
-
-
+  "urlList": [
+    {
+      "discountType": "%",
+      "url": "https://www.google.com/*"
+    },
+     {
+      "discountType": "eur",
+      "url": "https://www.b92.net/*"
+    }
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
