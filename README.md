@@ -1,0 +1,2 @@
+# pluginJson
+test plugin
