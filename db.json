@@ -1,14 +1,11 @@
+
+
 {
-  "urlList": [
+  "posts": [
     {
-      "discountType": "%",
-      "url": "https://www.google.com/*"
-    },
-     {
-      "discountType": "eur",
-      "url": "https://www.b92.net/*"
+      "id": 1,
+      "title": "hello"
     }
-    
   ],
   "profile": {
     "name": "typicode"
